@@ -1,6 +1,8 @@
 #ifndef OMP_EQUITYCALCULATOR_H
 #define OMP_EQUITYCALCULATOR_H
 
+#include <functional>
+
 #include "CombinedRange.h"
 #include "Random.h"
 #include "CardRange.h"
